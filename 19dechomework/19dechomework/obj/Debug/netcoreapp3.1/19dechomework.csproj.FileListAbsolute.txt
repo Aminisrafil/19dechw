@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\bin\Debug\netcoreapp3.1\19dechomework.exe
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\bin\Debug\netcoreapp3.1\19dechomework.deps.json
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\bin\Debug\netcoreapp3.1\19dechomework.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\bin\Debug\netcoreapp3.1\19dechomework.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\bin\Debug\netcoreapp3.1\19dechomework.dll
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\bin\Debug\netcoreapp3.1\19dechomework.pdb
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\obj\Debug\netcoreapp3.1\19dechomework.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\obj\Debug\netcoreapp3.1\19dechomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\obj\Debug\netcoreapp3.1\19dechomework.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\obj\Debug\netcoreapp3.1\19dechomework.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\obj\Debug\netcoreapp3.1\19dechomework.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\obj\Debug\netcoreapp3.1\19dechomework.dll
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\obj\Debug\netcoreapp3.1\19dechomework.pdb
+C:\Users\user\OneDrive\Desktop\C#\19dechomework\19dechomework\obj\Debug\netcoreapp3.1\19dechomework.genruntimeconfig.cache
